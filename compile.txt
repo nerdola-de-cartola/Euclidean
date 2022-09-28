@@ -1,0 +1,1 @@
+g++ ./app/main.c ./lib/ga.c -o ./bin/main.exe -lm -Wall
