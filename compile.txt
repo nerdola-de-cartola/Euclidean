@@ -1,1 +1,1 @@
-g++ ./app/main.c ./lib/ga.c -o ./bin/main.exe -lm -Wall
+clang++ ./app/main.cpp ./lib/line.cpp ./lib/dot.cpp ./lib/circle.cpp -o ./bin/main.exe -lm -Wall
